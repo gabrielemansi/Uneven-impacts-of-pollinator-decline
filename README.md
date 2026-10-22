@@ -234,14 +234,12 @@ Example (`Impacts_wrt_baseline`, real GDP, values rounded to three decimals):
 - The analysis focuses on the EU-27: shocks for non-EU countries are zero or close to zero.
 - Malta shows no change in pollination potential or crop yields in any scenario; Cyprus shows no change in the PREST and GHSB scenarios.
 
-## Source of pollinator projections.
-> Gerber, G. (2026). *Dataset ACCREU D2.4: European pollinator species distribution models and pollination supply metrics under climate change* (Version 1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.22751031
-> Ghisbain, G., Thiery, W., Massonnet, F. et al. (2024). Projected decline in European bumblebee populations in the twenty-first century. Nature 628, 337–341. https://doi.org/10.1038/s41586-023-06471-0 
-> Prestele, R., Brown, C., Polce, C., Maes, J., & Whitehorn, P. (2021). Large variability in response to projected climate and land-use changes among European bumblebee species. Global Change Biology, 27(19), 4530--4545. https://doi.org/10.1111/gcb.15780
-
-## Related data
+## Related datasets
 > Campoleoni Mansi, G. A., Gerber, G., & Palazzo, A. (2026). *Pollination Shocks on European Crop Yields* (Version 1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23529106
-Crop-level yield shocks under the IIASA-CLIM scenarios, produced within the ACCREU project.
+Crop-level yield shocks under the IIASA-CLIM scenarios, produced within the ACCREU project; 
+> Gerber, G. (2026). *Dataset ACCREU D2.4: European pollinator species distribution models and pollination supply metrics under climate change* (Version 1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.22751031 ; 
+> Ghisbain, G., Thiery, W., Massonnet, F. et al. (2024). Projected decline in European bumblebee populations in the twenty-first century. Nature 628, 337–341. https://doi.org/10.1038/s41586-023-06471-0 ; 
+> Prestele, R., Brown, C., Polce, C., Maes, J., & Whitehorn, P. (2021). Large variability in response to projected climate and land-use changes among European bumblebee species. Global Change Biology, 27(19), 4530--4545. https://doi.org/10.1111/gcb.15780 ; 
 
 ## License
 
