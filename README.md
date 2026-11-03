@@ -235,7 +235,7 @@ Example (`Impacts_wrt_baseline`, real GDP, values rounded to three decimals):
 - Malta shows no change in pollination potential or crop yields in any scenario; Cyprus shows no change in the PREST and GHSB scenarios.
 
 ## Related datasets
-> Campoleoni Mansi, G. A., Gerber, G., & Palazzo, A. (2026). *Pollination Shocks on European Crop Yields* (Version 1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23529106
+> Campoleoni Mansi, G. A. (2026). *Pollination Shocks on European Crop Yields* (Version 1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23529106
 Crop-level yield shocks under the IIASA-CLIM scenarios, produced within the ACCREU project; 
 > Gerber, G. (2026). *Dataset ACCREU D2.4: European pollinator species distribution models and pollination supply metrics under climate change* (Version 1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.22751031 ; 
 > Ghisbain, G., Thiery, W., Massonnet, F. et al. (2024). Projected decline in European bumblebee populations in the twenty-first century. Nature 628, 337–341. https://doi.org/10.1038/s41586-023-06471-0 ; 
