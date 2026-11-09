@@ -1,6 +1,6 @@
 # Pollinator decline reveals uneven impacts of climate-driven biodiversity loss — Datasets
 
-This record provides the data underlying the working paper "Pollinator decline reveals uneven impacts of climate-driven biodiversity loss", a climate-driven, multi-model assessment of the macroeconomic consequences of pollinator decline in the European Union. Projected changes in wild-pollinator distribution are translated into crop-yield losses and then into regional economic impacts with a sub-national computable general equilibrium (CGE) model. The record is organised in three folders, one for each stage of the modelling chain.
+This record provides the output and intermediete data of "Pollinator decline reveals uneven impacts of climate-driven biodiversity loss", a climate-driven, multi-model assessment of the macroeconomic consequences of pollinator decline in the European Union. Projected changes in wild-pollinator distribution are translated into crop-yield losses and then into regional economic impacts with a sub-national computable general equilibrium (CGE) model. The record is organised in three folders, one for each stage of the modelling chain.
 
 ## Citation
 
